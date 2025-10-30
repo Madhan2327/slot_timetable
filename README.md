@@ -24,8 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-'''
+```
 <html>
 <head>
 <title>slot Timetable</title>    
@@ -37,7 +36,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="10" border="7" bgcolor="pink">
-<caption><b>SLOT TIME TABLE -MADHAN C(212224240081)</b></caption>
+<caption><b>SLOT TIME TABLE -Madhan C(212224240081)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -145,9 +144,9 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-'''
-
+```
 ## OUTPUT
+
 ![alt text](<WhatsApp Image 2025-10-30 at 09.18.58_cec8251d.jpg>)
 
 ## RESULT
